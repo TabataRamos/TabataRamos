@@ -1,12 +1,11 @@
 ### Saudações ✌️
-##### Eu me chamo Tábata e atualmente sou aluna do Gama Academy (Hacker).
+Eu sou a Tábata, tenho 20 anos, iniciei em programação em Novembro de 2021 e tenho aprendido muito desde então. Atualmente atuo como desenvolvedora front-end e gosto muito do que eu faço.
 
 - ✨ ela/dela (she/her)
 - 📚 Gama Academy
 - 🧪 mbti INTP
-- 🖍️ Desenho nas horas vagas
-- ✍️ **Objetivo:**
-_Ser uma Desenvolvedora Full Stack_
+- 🖍️ Artista quando dá vontade
+- ✍️ Aspirante de engenharia de software
 
 ![Tábata's GitHub stats](https://github-readme-stats.vercel.app/api?username=TabataRamos&theme=aura_dark&show_icons=true)![Tábata](https://github-readme-stats.vercel.app/api/top-langs/?username=TabataRamos&layout=compact&langs_count=7&theme=aura_dark)
 
@@ -15,21 +14,6 @@ _Ser uma Desenvolvedora Full Stack_
 [![FacebookImagem](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tabatabrenda.ramos/)
 [![LinkedInImagem](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A1bata-ramos-23688721a/)
 [![GmailImagem](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabata.b.ramos@gmail.com) 
+[![DiscordImagem](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](iWolfa#9078)
 
 
-<!-- [![DiscordImagem](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](iWolfa#9078) -->
-
-<!--
-**TabataRamos/TabataRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
